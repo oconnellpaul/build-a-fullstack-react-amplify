@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "buildafullstackreact5e805160": {}
+      },
+      "api": {
+        "buildafullstackreact": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
